@@ -86,3 +86,13 @@ You can also use words, to fit your writing style more closely[^note].
 [^note]:
     Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
     This footnote also has been made with a different syntax using 4 spaces for new lines.
+    
+<!-- This content will not appear in the rendered Markdown -->
+
+Let's rename \*our-new-project\* to \*our-old-project\*.
+
+Sno|Name|Roll No
+-----|-----|-----
+1|Kavya|27
+2|Likitha|05
+3|Jahnavi|33
